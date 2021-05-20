@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on c++
 - 📫 To reach me:
 - email: benrokia.sofiane.adel@gmail.com
-- telephone: +49 152-520-945-50
 
 <!---
 sofianeBenrokia/sofianeBenrokia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
